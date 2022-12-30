@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaEnlazada>
+    <cabecera>
+        <persona>
+            <apellido>Administrador</apellido>
+            <correo>admin@imperium.com</correo>
+            <indetifiacion>1111111111</indetifiacion>
+            <nombre>Administrador</nombre>
+            <tipoIdentificacion>CEDULA</tipoIdentificacion>
+        </persona>
+        <siguiente>
+            <persona>
+                <apellido>Final</apellido>
+                <correo>consumidor@imperium.com</correo>
+                <direccion>Planeta Tierra</direccion>
+                <indetifiacion>9999999999</indetifiacion>
+                <nombre>Consumidor</nombre>
+                <tipoIdentificacion>CEDULA</tipoIdentificacion>
+            </persona>
+            <siguiente>
+                <persona>
+                    <apellido>Adam</apellido>
+                    <correo>blackadam@gmail.com</correo>
+                    <direccion>Kahndaq</direccion>
+                    <indetifiacion>Synder012</indetifiacion>
+                    <tipoIdentificacion>PASAPORTE</tipoIdentificacion>
+                </persona>
+                <siguiente>
+                    <persona>
+                        <apellido>Rogers</apellido>
+                        <correo>assofamerica@gmail.com</correo>
+                        <direccion>Estados Unidos</direccion>
+                        <indetifiacion>1105965352</indetifiacion>
+                        <tipoIdentificacion>CEDULA</tipoIdentificacion>
+                    </persona>
+                    <siguiente>
+                        <persona>
+                            <apellido>Lowrense</apellido>
+                            <correo>jenifferbutt@gmail.com</correo>
+                            <direccion>Mi corazon</direccion>
+                            <id>5</id>
+                            <id_rol>4</id_rol>
+                            <indetifiacion>1105965360</indetifiacion>
+                            <nombre>Jeniffer</nombre>
+                            <tipoIdentificacion>CEDULA</tipoIdentificacion>
+                        </persona>
+                    </siguiente>
+                </siguiente>
+            </siguiente>
+        </siguiente>
+    </cabecera>
+    <size>5</size>
+</listaEnlazada>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaEnlazada>
+    <cabecera>
+        <cuenta>
+            <clave>lgV1m67pKWJe9rH3wB4aVA==</clave>
+            <estado>true</estado>
+            <id>1</id>
+            <id_persona>1</id_persona>
+            <usuario>admin@imperium.com</usuario>
+        </cuenta>
+    </cabecera>
+    <size>1</size>
+</listaEnlazada>
